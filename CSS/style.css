@@ -97,3 +97,13 @@ img {
 #home .page-title {
     text-transform: none;
 }
+
+#news {
+    background-image: url(../images/news-bg.jpg);
+    height: 27px;
+    margin-bottom: 40px;
+}
+
+#news .page-title {
+    text-align: center;
+}
