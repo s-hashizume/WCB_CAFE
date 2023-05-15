@@ -361,12 +361,12 @@ input[type="submit"] {
     .post-info {
         margin-bottom: 30px;
     }
-    .post-date {
+    .post-data {
         width: 70px;
         height: 70px;
         font-size: 1rem;
     }
-    .post-date span {
+    .post-data span {
         font-size: 0.875rem;
         padding-top: 2px;
     }
